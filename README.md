@@ -1,2 +1,2 @@
 # Machine_Learning
-To explore the supervised and unsupervised machine learning
+You can explore the supervised and unsupervised machine learning models in this section.
